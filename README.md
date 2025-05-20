@@ -69,7 +69,11 @@ Login    : admin@example.com / password
 
 | Dashboard                       | Form KAK                      | LPJ & Sisa Anggaran      |
 | ------------------------------- | ----------------------------- | ------------------------ |
-| ![image](https://github.com/user-attachments/assets/94d13198-4615-4904-ad46-718d619e47c6)| ![image](https://github.com/user-attachments/assets/b96e8fce-d492-41cb-8fd1-fce2924dec81) | ![image](https://github.com/user-attachments/assets/b29d576c-c840-4fb5-8007-88f1b0c4052b) ![image](https://github.com/user-attachments/assets/cb17df3b-bb0c-407c-8c7a-c0f0ccbea85d)
+| ![image](https://github.com/user-attachments/assets/8009c40c-204a-4615-80e1-1505c0ea67f5)
+| ![image](https://github.com/user-attachments/assets/3784a17b-5393-4786-b90b-6d240268020d)
+ | ![image](https://github.com/user-attachments/assets/00b78b25-556f-4f56-b8c7-157f8788f782)
+ ![image](https://github.com/user-attachments/assets/18f4224d-10e5-48b4-b244-008e0b604618)
+
 |
 
 
