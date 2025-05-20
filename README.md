@@ -39,18 +39,10 @@ Selamat datang di **Sirekap**, teman baru Puskesmas untuk merencanakan, menjalan
 
 | Dashboard                       | Form KAK                      | LPJ & Sisa Anggaran      |
 | ------------------------------- | ----------------------------- | ------------------------ |
-| ![image](https://github.com/user-attachments/assets/8009c40c-204a-4615-80e1-1505c0ea67f5)| ![image](https://github.com/user-attachments/assets/3784a17b-5393-4786-b90b-6d240268020d)| ![image](https://github.com/user-attachments/assets/00b78b25-556f-4f56-b8c7-157f8788f782) ![image](https://github.com/user-attachments/assets/18f4224d-10e5-48b4-b244-008e0b604618)
-
-|
+| ![image](https://github.com/user-attachments/assets/8009c40c-204a-4615-80e1-1505c0ea67f5)| ![image](https://github.com/user-attachments/assets/3784a17b-5393-4786-b90b-6d240268020d)| ![image](https://github.com/user-attachments/assets/00b78b25-556f-4f56-b8c7-157f8788f782) ![image](https://github.com/user-attachments/assets/18f4224d-10e5-48b4-b244-008e0b604618)|
 
 
----
 
-## Mau Ikut Kontribusi?
-
-1. Fork repo → `git checkout -b fitur/namafitur`
-2. Commit rapih & deskriptif
-3. Buka Pull Request ☕️
 
 ---
 
