@@ -26,36 +26,6 @@ Selamat datang di **Sirekap**, teman baru Puskesmas untuk merencanakan, menjalan
 
 ---
 
-## Teknologi di Balik Layar
-
-* **Frontend** : React + Vite + Tailwind CSS
-* **Backend**  : Node.js + Express + JWT
-* **Database** : MySQL (pakai Sequelize ORM)
-* **DevOps**   : Docker Compose, GitHub Actions untuk CI/CD
-
----
-
-## Cara Pasang di Laptop Kamu
-
-```bash
-# 1. Clone repo
-$ git clone https://github.com/<username>/sirekap-puskesmas.git
-$ cd sirekap-puskesmas
-
-# 2. Salin env contoh
-$ cp .env.example .env
-
-# 3. Jalankan
-$ docker compose up -d --build
-
-# 4. Buka di browser
-Frontend : http://localhost:5173
-Backend  : http://localhost:3000/api
-Login    : admin@example.com / password
-```
-
----
-
 ## Alur Singkat Penggunaan
 
 1. Admin mengelola manajemen user.
@@ -69,9 +39,7 @@ Login    : admin@example.com / password
 
 | Dashboard                       | Form KAK                      | LPJ & Sisa Anggaran      |
 | ------------------------------- | ----------------------------- | ------------------------ |
-| ![image](https://github.com/user-attachments/assets/8009c40c-204a-4615-80e1-1505c0ea67f5)
-| ![image](https://github.com/user-attachments/assets/3784a17b-5393-4786-b90b-6d240268020d)
- | ![image](https://github.com/user-attachments/assets/00b78b25-556f-4f56-b8c7-157f8788f782)
+| ![image](https://github.com/user-attachments/assets/8009c40c-204a-4615-80e1-1505c0ea67f5)| ![image](https://github.com/user-attachments/assets/3784a17b-5393-4786-b90b-6d240268020d)| ![image](https://github.com/user-attachments/assets/00b78b25-556f-4f56-b8c7-157f8788f782)
  ![image](https://github.com/user-attachments/assets/18f4224d-10e5-48b4-b244-008e0b604618)
 
 |
